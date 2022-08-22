@@ -6,5 +6,4 @@
   :dependencies [[org.clojure/clojure "1.9.0-beta2"]
                  [clj-http "3.7.0"]
                  [org.clojure/data.json "0.2.6"]
-                 [com.taoensso/timbre "4.10.0"]
-                 ])
+                 [com.taoensso/timbre "4.10.0"]])
